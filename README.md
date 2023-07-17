@@ -1,16 +1,16 @@
-### Hi there 👋
+## 👋 Olá!
 
-<!--
-**arthuraguiar032/arthuraguiar032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente sou voluntário em um **projeto de iniciação científica**
+- 🌱 Atualmente estou aprendendo **Algoritmo e Estruturas de Dados | Programação Funcional | Análise de Dados**
+- 📫 Como entrar em contato comigo? aguiarthur.32@gmail.com
+- 📄 Minhas experiências: [Linkedin](https://www.linkedin.com/in/arthur-aguiar-129b00139/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+<div style="display: inline_block">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"  width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="45"/>   </div>
