@@ -1,7 +1,7 @@
 ## 👋 Olá!
 
 
-- 🔭 Atualmente sou voluntário em um **projeto de iniciação científica**
+- 🔭 Atualmente sou voluntário em um **projeto de iniciação científica** e faço estágio interno no DGTI-UERJ
 - 🌱 Atualmente estou aprendendo **Algoritmo e Estruturas de Dados | Programação Funcional | Análise de Dados**
 - 📫 Como entrar em contato comigo? aguiarthur.32@gmail.com
 - 📄 Minhas experiências: [Linkedin](https://www.linkedin.com/in/arthur-aguiar-129b00139/)
